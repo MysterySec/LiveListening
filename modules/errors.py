@@ -1,0 +1,2 @@
+class ModelPathNotFound(Exception):
+  pass
